@@ -1,0 +1,20 @@
+.posts-container {
+    margin-top: 30px;
+    display: flex; 
+    flex-direction: row; 
+    justify-content: space-around;
+    flex-wrap: wrap
+}
+
+.post-link {
+    margin-left: 30px;
+}
+
+.post-card {
+    width: 240px;
+    margin-bottom: 30px;
+}
+
+.post-img {
+    height: 200px;
+}
